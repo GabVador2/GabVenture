@@ -1,0 +1,290 @@
+{
+    "CR00": {
+        "C": 0,
+        "R": 0,
+        "item": "WOOD",
+        "quantity": 25
+    },
+    "CR01": {
+        "C": 0,
+        "R": 1,
+        "item": "none",
+        "quantity": 0
+    },
+    "CR02": {
+        "C": 0,
+        "R": 2,
+        "item": "none",
+        "quantity": 0
+    },
+    "CR03": {
+        "C": 0,
+        "R": 3,
+        "item": "none",
+        "quantity": 0
+    },
+    "CR04": {
+        "C": 0,
+        "R": 4,
+        "item": "none",
+        "quantity": 0
+    },
+    "CR05": {
+        "C": 0,
+        "R": 5,
+        "item": "none",
+        "quantity": 0
+    },
+    "CR10": {
+        "C": 1,
+        "R": 0,
+        "item": "none",
+        "quantity": 0
+    },
+    "CR11": {
+        "C": 1,
+        "R": 1,
+        "item": "none",
+        "quantity": 0
+    },
+    "CR12": {
+        "C": 1,
+        "R": 2,
+        "item": "none",
+        "quantity": 0
+    },
+    "CR13": {
+        "C": 1,
+        "R": 3,
+        "item": "none",
+        "quantity": 0
+    },
+    "CR14": {
+        "C": 1,
+        "R": 4,
+        "item": "none",
+        "quantity": 0
+    },
+    "CR15": {
+        "C": 1,
+        "R": 5,
+        "item": "none",
+        "quantity": 0
+    },
+    "CR20": {
+        "C": 2,
+        "R": 0,
+        "item": "none",
+        "quantity": 0
+    },
+    "CR21": {
+        "C": 2,
+        "R": 1,
+        "item": "none",
+        "quantity": 0
+    },
+    "CR22": {
+        "C": 2,
+        "R": 2,
+        "item": "none",
+        "quantity": 0
+    },
+    "CR23": {
+        "C": 2,
+        "R": 3,
+        "item": "none",
+        "quantity": 0
+    },
+    "CR24": {
+        "C": 2,
+        "R": 4,
+        "item": "none",
+        "quantity": 0
+    },
+    "CR25": {
+        "C": 2,
+        "R": 5,
+        "item": "none",
+        "quantity": 0
+    },
+    "CR30": {
+        "C": 3,
+        "R": 0,
+        "item": "none",
+        "quantity": 0
+    },
+    "CR31": {
+        "C": 3,
+        "R": 1,
+        "item": "none",
+        "quantity": 0
+    },
+    "CR32": {
+        "C": 3,
+        "R": 2,
+        "item": "none",
+        "quantity": 0
+    },
+    "CR33": {
+        "C": 3,
+        "R": 3,
+        "item": "none",
+        "quantity": 0
+    },
+    "CR34": {
+        "C": 3,
+        "R": 4,
+        "item": "none",
+        "quantity": 0
+    },
+    "CR35": {
+        "C": 3,
+        "R": 5,
+        "item": "none",
+        "quantity": 0
+    },
+    "CR40": {
+        "C": 4,
+        "R": 0,
+        "item": "none",
+        "quantity": 0
+    },
+    "CR41": {
+        "C": 4,
+        "R": 1,
+        "item": "none",
+        "quantity": 0
+    },
+    "CR42": {
+        "C": 4,
+        "R": 2,
+        "item": "none",
+        "quantity": 0
+    },
+    "CR43": {
+        "C": 4,
+        "R": 3,
+        "item": "none",
+        "quantity": 0
+    },
+    "CR44": {
+        "C": 4,
+        "R": 4,
+        "item": "none",
+        "quantity": 0
+    },
+    "CR45": {
+        "C": 4,
+        "R": 5,
+        "item": "none",
+        "quantity": 0
+    },
+    "CR50": {
+        "C": 5,
+        "R": 0,
+        "item": "none",
+        "quantity": 0
+    },
+    "CR51": {
+        "C": 5,
+        "R": 1,
+        "item": "none",
+        "quantity": 0
+    },
+    "CR52": {
+        "C": 5,
+        "R": 2,
+        "item": "none",
+        "quantity": 0
+    },
+    "CR53": {
+        "C": 5,
+        "R": 3,
+        "item": "none",
+        "quantity": 0
+    },
+    "CR54": {
+        "C": 5,
+        "R": 4,
+        "item": "none",
+        "quantity": 0
+    },
+    "CR55": {
+        "C": 5,
+        "R": 5,
+        "item": "none",
+        "quantity": 0
+    },
+    "CR60": {
+        "C": 6,
+        "R": 0,
+        "item": "none",
+        "quantity": 0
+    },
+    "CR61": {
+        "C": 6,
+        "R": 1,
+        "item": "none",
+        "quantity": 0
+    },
+    "CR62": {
+        "C": 6,
+        "R": 2,
+        "item": "none",
+        "quantity": 0
+    },
+    "CR63": {
+        "C": 6,
+        "R": 3,
+        "item": "none",
+        "quantity": 0
+    },
+    "CR64": {
+        "C": 6,
+        "R": 4,
+        "item": "none",
+        "quantity": 0
+    },
+    "CR65": {
+        "C": 6,
+        "R": 5,
+        "item": "none",
+        "quantity": 0
+    },
+    "CR70": {
+        "C": 7,
+        "R": 0,
+        "item": "none",
+        "quantity": 0
+    },
+    "CR71": {
+        "C": 7,
+        "R": 1,
+        "item": "none",
+        "quantity": 0
+    },
+    "CR72": {
+        "C": 7,
+        "R": 2,
+        "item": "none",
+        "quantity": 0
+    },
+    "CR73": {
+        "C": 7,
+        "R": 3,
+        "item": "none",
+        "quantity": 0
+    },
+    "CR74": {
+        "C": 7,
+        "R": 4,
+        "item": "none",
+        "quantity": 0
+    },
+    "CR75": {
+        "C": 7,
+        "R": 5,
+        "item": "none",
+        "quantity": 0
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "CR00": {
+        "HC": 0,
+        "HR": 0,
+        "item": "RAW_IRON",
+        "quantity": 2
+    },
+    "CR10": {
+        "HC": 1,
+        "HR": 0,
+        "item": "none",
+        "quantity": 0
+    },
+    "CR20": {
+        "HC": 2,
+        "HR": 0,
+        "item": "none",
+        "quantity": 0
+    },
+    "CR30": {
+        "HC": 3,
+        "HR": 0,
+        "item": "none",
+        "quantity": 0
+    },
+    "CR40": {
+        "HC": 4,
+        "HR": 0,
+        "item": "none",
+        "quantity": 0
+    },
+    "CR50": {
+        "HC": 5,
+        "HR": 0,
+        "item": "none",
+        "quantity": 0
+    },
+    "CR60": {
+        "HC": 6,
+        "HR": 0,
+        "item": "none",
+        "quantity": 0
+    },
+    "CR70": {
+        "HC": 7,
+        "HR": 0,
+        "item": "none",
+        "quantity": 0
+    }
+}
